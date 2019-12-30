@@ -52,7 +52,7 @@ Per trasferire l'immagine della distro sulla scheda SD ho usato [Etcher](https:/
 - Copio lo zip in questione sulla chiavetta USB.
 - metto la chiavetta nel RPI
 - Ordino a Kodi di permettere l'installazione di add-ons di terze parti `Settings > System > Add-ons > Unknown sources`.
-- Installo l'add-on `Add-ons > Install from zip file > nome-del-file.zip`; verrà richeisto di installare altri add-ons, accetto.
+- Installo l'add-on `Add-ons > Install from zip file > nome-del-file.zip`; verrà richiesto di installare altri add-ons, accetto.
 - Adesso tra i miei Addons trovo Netflix
 - inserisco le credenziali dell'account Netflix (grazie Sam!)
 - al primo accesso, verrà richiesto di installare dell'altro software, accetto.
