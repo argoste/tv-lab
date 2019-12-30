@@ -25,7 +25,7 @@ Quello che segue sono appunti sui passi che ho seguito.
 
 Ho deciso che il dispositivo doveva servire solo come media center, che non mi interessava usarlo come desktop.
 
-Quindi ho scelto KODI come software per media center, che fornisce una interfaccia a tutti i vari sottosistemi necessari.
+Quindi ho scelto [KODI](https://kodi.tv/) come software per media center, che fornisce una interfaccia a tutti i vari sottosistemi necessari.
 
 Ho scelto di far girare KODI su una distribuzione Linux minimale, che fornisce le necessarie risorse a KODI per funzionare.
 
