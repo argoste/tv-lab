@@ -14,7 +14,7 @@ Quello che segue sono appunti sui passi che ho seguito.
 
 - Raspberry Pi 3 B+
 - **FONDAMENTALE** un alimentatore fidato; io ho scelto l'Alimentatore ufficiale per RPI 3 (5.1 V, 2.5 A) 
-- **FONDAMENTALE** scheda di memoria microSD Sandisk Ultra, Categoria Performance A1. Per maggiori informazioni per scegliere la scheda SD rimando a un (capitolo di armbian user guide)[https://docs.armbian.com/User-Guide_Getting-Started/#how-to-prepare-a-sd-card].
+- **FONDAMENTALE** scheda di memoria microSD Sandisk Ultra, Categoria Performance A1. Per maggiori informazioni per scegliere la scheda SD rimando a un [capitolo di armbian user guide](https://docs.armbian.com/User-Guide_Getting-Started/#how-to-prepare-a-sd-card).
 - TV dotata di entrata HDMI (e telecomando)
 - un cavo HDMI/HDMI
 - Un computer che sia vicino al TV.
@@ -28,11 +28,11 @@ Quindi ho scelto KODI come software per media center, che fornisce una interfacc
 
 Ho scelto di far girare KODI su una distribuzione Linux minimale, che fornisce le necessarie risorse a KODI per funzionare.
 
-Tra varie possibilità, ho scelto la distribuzione (LibreELEC)[https://libreelec.tv/downloads_new/raspberry-pi-3-3/] e ho scaricato l'immagine del sistema operativo.
+Tra varie possibilità, ho scelto la distribuzione [LibreELEC](https://libreelec.tv/downloads_new/raspberry-pi-3-3/) e ho scaricato l'immagine del sistema operativo.
 
 ## Creare la SD avviabile
 
-Per trasferire l'immagine della distro sulla scheda SD ho usato (Etcher)[https://www.balena.io/etcher/].
+Per trasferire l'immagine della distro sulla scheda SD ho usato [Etcher](https://www.balena.io/etcher/).
 
 ## Primo setup
 
